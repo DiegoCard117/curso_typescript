@@ -3,3 +3,5 @@ function oi(nome: string) {
 }
 
 oi('diego')
+
+const nome = 'diego'
